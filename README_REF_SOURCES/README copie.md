@@ -1,8 +1,10 @@
 # Biblo
 
-Ce dossier contiendra des exemples de code pour construire un site web.
+Read me pls
 
-Ceci est un fichier README avec la syntaxe Markdown, voir
+référence: https://codepen.io/collection/DOLBEQ/?cursor=ZD0xJm89MSZwPTEmdj0z
+
+lien: https://filipeid492.github.io/test_git_fgouveia/
 
 
-https://cours-web.ch/divers/markdown  
+template site de base: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
