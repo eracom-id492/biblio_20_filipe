@@ -1,0 +1,13 @@
+@font-face {
+   font-family: Typefesse_Claire-Obscure.woff;
+}
+
+@font-face {
+   font-family: Typefesse_Claire;
+   src: url(fonts/Typefesse_Claire-Obscure.woff);
+   font-weight: bold;
+}
+
+* {
+   font-family: Typefesse_Claire, helvetica, times, sans-serif;
+}
